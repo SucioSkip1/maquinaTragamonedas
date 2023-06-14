@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="dis_jugar" parent="@android:style/TextAppearance.Medium">
+        <item name="android:backgroundTint">#00BCD4</item>
+        <item name="cornerRadius">50dp</item>
+
+
+
+
+    </style>
+    <style name="dis_dificultad" parent="@android:style/TextAppearance.Medium">
+        <item name="android:backgroundTint">#00D415</item>
+        <item name="cornerRadius">20dp</item>
+    </style>
+</resources>
